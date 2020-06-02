@@ -1,2 +1,2 @@
 # DemoPay
-Full Featured Payment Gateway for Demos, Presentations and School Projects
+Fully Featured Payment Gateway for Demos, Presentations and School Projects
